@@ -231,9 +231,15 @@ function checkelem(caller, elem) {
 <span class="ss-required-asterisk">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr">One of our aims is to facilitate the exchange of experience among alumni from different sessions. The Committee is now launching a mentorship scheme, of which senior alumni may have the chance to share experiences to younger alumni, in occasions such as JUPAS Counselling. Please check the following box(es) if you would like to be our Mentor and/or Mentee.</div></label>
 
+<<<<<<< HEAD
+<ul class="ss-choices ss-choices-required" role="group" aria-label="Mentorship Scheme One of our aims is to facilitate the exchange of experience among alumni from different sessions. The Committee is now launching a mentorship scheme, of which senior alumni may have the chance to share experiences to younger alumni, in occasions such as JUPAS Counselling. Please check the following box(es) if you would like to be our Mentor and/or Mentee. "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1926729010" value="I wish to participate in the HKUYLAA Mentorship Scheme." id="group_1926729010_1" role="checkbox" class="ss-q-checkbox" aria-required="true" required="required"></span>
+<span class="ss-choice-label">I wish to participate in the HKUYLAA Mentorship Scheme.</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1926729010" value="I do not wish to participate in the HKUYLAA Mentorship Scheme." id="group_1926729010_2" role="checkbox" class="ss-q-checkbox" aria-required="true" required="required"></span>
+=======
 <ul class="ss-choices ss-choices-required" role="group" aria-label="Mentorship Scheme One of our aims is to facilitate the exchange of experience among alumni from different sessions. The Committee is now launching a mentorship scheme, of which senior alumni may have the chance to share experiences to younger alumni, in occasions such as JUPAS Counselling. Please check the following box(es) if you would like to be our Mentor and/or Mentee. "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1926729010" value="I wish to participate in the HKUYLAA Mentorship Scheme." id="group_1926729010_1" role="radio" class="ss-q-radio" aria-required="true"></span>
 <span class="ss-choice-label">I wish to participate in the HKUYLAA Mentorship Scheme.</span>
 </label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1926729010" value="I do not wish to participate in the HKUYLAA Mentorship Scheme." id="group_1926729010_2" role="radio" class="ss-q-radio" aria-required="true"></span>
+>>>>>>> 10e0c6c4f118502262c967ddb1977bff8fcc6ed7
 <span class="ss-choice-label">I do not wish to participate in the HKUYLAA Mentorship Scheme.</span>
 </label></li></ul>
 <div class="error-message" id="2119639740_errorMessage"></div>
@@ -244,9 +250,15 @@ function checkelem(caller, elem) {
 <span class="ss-required-asterisk">*</span></div>
 <div class="ss-q-help ss-secondary-text" dir="ltr">The HKUYLAA aims to organize various activities to enhance the communication among our fellow alumni. We shall invite our alumni to be part of the &quot;Organizing Committee&quot; for each activity. Please check the appropriate box if you would like to receive such invitations through email in the future.</div></label>
 
+<<<<<<< HEAD
+<ul class="ss-choices ss-choices-required" role="group" aria-label="Organizing Committee The HKUYLAA aims to organize various activities to enhance the communication among our fellow alumni. We shall invite our alumni to be part of the &quot;Organizing Committee&quot; for each activity. Please check the appropriate box if you would like to receive such invitations through email in the future. "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" required="required" name="entry.1697700939" value="I wish to be invited to be part of the Organizing Committee of HKUYLAA activities in the future." id="group_1697700939_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<span class="ss-choice-label">I wish to be invited to be part of the Organizing Committee of HKUYLAA activities in the future.</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" required="required" name="entry.1697700939" value="I do not wish to receive such invitations." id="group_1697700939_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+=======
 <ul class="ss-choices ss-choices-required" role="group" aria-label="Organizing Committee The HKUYLAA aims to organize various activities to enhance the communication among our fellow alumni. We shall invite our alumni to be part of the &quot;Organizing Committee&quot; for each activity. Please check the appropriate box if you would like to receive such invitations through email in the future. "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1697700939" value="I wish to be invited to be part of the Organizing Committee of HKUYLAA activities in the future." id="group_1697700939_1" role="radio" class="ss-q-radio" aria-required="true"></span>
 <span class="ss-choice-label">I wish to be invited to be part of the Organizing Committee of HKUYLAA activities in the future.</span>
 </label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1697700939" value="I do not wish to receive such invitations." id="group_1697700939_2" role="radio" class="ss-q-radio" aria-required="true"></span>
+>>>>>>> 10e0c6c4f118502262c967ddb1977bff8fcc6ed7
 <span class="ss-choice-label">I do not wish to receive such invitations.</span>
 </label></li></ul>
 <div class="error-message" id="1451511871_errorMessage"></div>

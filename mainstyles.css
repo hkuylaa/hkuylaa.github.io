@@ -137,6 +137,7 @@ img {
     background:-moz-linear-gradient( center top, #d3d3d3 5%, #d0d0d0 100% );
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d3d3d3', endColorstr='#d0d0d0');
     background-color:#d0d0d0;
+	cursor: pointer;
 }
 .formStyle .button:active {
     position:relative;
