@@ -26,7 +26,7 @@ window.onload = function() {
 	checkall(all);
 	}, false);
 	
-}	
+};	
 
 function checkall(all) {
 	var checked = false;
@@ -61,7 +61,13 @@ function checkelem(caller, elem) {
 <body>
 <img src="aalogo.png">
 <br>
-<form class="formStyle" action="https://docs.google.com/forms/d/1S2_OLrf5xshCNhcc24VG62DCyQJNFH_Y_GDzU7lg9yc/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="redirect" id="redirect"
+style="display:none;" onload="if(submitted) {
+window.location='/submitted.html/';
+}"></iframe>
+
+<form class="formStyle" action="https://docs.google.com/forms/d/1S2_OLrf5xshCNhcc24VG62DCyQJNFH_Y_GDzU7lg9yc/formResponse" method="post" id="ss-form" target="redirect" onsubmit="submitted=true;"><ol role="list" class="ss-question-list">
 <span class="reminder">* This is a required field</span>
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
